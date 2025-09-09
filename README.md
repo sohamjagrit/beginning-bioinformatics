@@ -1,1 +1,1 @@
-# bioinformatics-rosalind
+Soham Jagrit + 1000345678 + BIOL5340-001
